@@ -6,3 +6,4 @@
 * [太极旗飘扬](/content/taijiqi/index.md)
 * [告白](/content/confessions/index.md)
 * [铁拳](/content/southpaw/index.md)
+* [情书](/content/love_letter/index.md)
