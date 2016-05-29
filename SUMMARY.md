@@ -15,3 +15,4 @@
 * [嫌疑人X的献身](/content/suspect_x/index.md)
 * [房间](/content/room/index.md)
 * [春夏秋冬又一春](/content/spring_summer_fall_winter_and_spring/index.md)
+* [坏小子](/content/bad_guy/index.md)
