@@ -17,3 +17,4 @@
 * [春夏秋冬又一春](/content/spring_summer_fall_winter_and_spring/index.md)
 * [坏小子](/content/bad_guy/index.md)
 * [狼少年](/content/a_werewolf_boy/index.md)
+* [我的野蛮女友](/content/my_sassy_girl/index.md)
