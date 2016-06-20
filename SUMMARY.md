@@ -20,3 +20,4 @@
 * [我的野蛮女友](/content/my_sassy_girl/index.md)
 * [金福南杀人事件始末](/content/bedevilled/index.md)
 * [北京遇上西雅图之不二情书](/content/Beijing_Meets_Seattle_II_Book_of_Love/index.md)
+* [漂流欲室](/content/The_Isle/index.md)
