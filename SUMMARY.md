@@ -26,3 +26,4 @@
 * [雏妓](/content/Birdcage_Inn/index.md)
 * [踏血寻梅](/content/Port_of_Call/index.md)
 * [百元之恋](/content/100_Yens_Love/index.md)
+* [海角七号](/content/Cape_No_7/index.md)
