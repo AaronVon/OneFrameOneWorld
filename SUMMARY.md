@@ -29,3 +29,4 @@
 * [海角七号](/content/Cape_No_7/index.md)
 * [大空头](/content/The_Big_Short/index.md)
 * [Zootopia](/content/Zootopia/index.md)
+* [云中行走](/content/The_Walk/index.md)
