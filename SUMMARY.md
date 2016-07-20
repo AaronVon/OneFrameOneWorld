@@ -32,3 +32,4 @@
 * [云中行走](/content/The_Walk/index.md)
 * [追击者](/content/The_Chaser/index.md)
 * [The Hateful Eight](content/The_Hateful_Eight/index.md)
+* [War Horse](/content/War_Horse/index.md)
