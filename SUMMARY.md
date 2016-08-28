@@ -36,3 +36,5 @@
 * [小姐](/content/The_Handmainden/index.md)
 * [老男孩](/content/Oldboy/index.md)
 * [触不到的恋人](/content/IL_Mare/index.md)
+* [An Inspector Calls](/content/A_Inspector_Calls/index.md)
+* [Under Sandet](/content/Under_Sandet/index.md)
