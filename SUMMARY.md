@@ -38,3 +38,5 @@
 * [触不到的恋人](/content/IL_Mare/index.md)
 * [An Inspector Calls](/content/A_Inspector_Calls/index.md)
 * [Under Sandet](/content/Under_Sandet/index.md)
+* [我不是王毛](/content/Wang_Mao/index.md)
+* [The Intern](/content/The_Intern/index.md)
