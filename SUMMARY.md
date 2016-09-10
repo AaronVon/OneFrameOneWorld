@@ -42,3 +42,4 @@
 * [The Intern](/content/The_Intern/index.md)
 * [非常主播](/content/Scandal_Makers/index.md)
 * [跨越彩虹](/content/Over_The_Rainbow/index.md)
+* [Eddie The Eagle](/content/Eddie_The_Eagle/index.md)
